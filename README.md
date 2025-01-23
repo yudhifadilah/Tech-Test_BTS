@@ -1,7 +1,13 @@
-Tech Test Backend Developer 
-Berikut adalah beberapa tech atau tools yang saya gunakan: 
-NodeJs 18.20.4
-ExpressJs
-Mysql 
+# Tech Test Backend Developer
 
-kemudian untuk programmnyna sendiri untuk loginnya saya menggunakan JWT (Json Web Token)
+Ini adalah proyek untuk menguji kemampuan backend development.
+
+## Tools dan Teknologi yang Digunakan
+
+- **Node.js**: v18.20.4
+- **Express.js**: Framework untuk membangun aplikasi web dan API
+- **MySQL**: Database relational
+
+## Fitur
+
+Untuk fitur login, saya menggunakan **JWT (JSON Web Token)** untuk otentikasi dan otorisasi.
